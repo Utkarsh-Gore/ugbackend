@@ -15,7 +15,7 @@ const port = process.env.PORT;
 
 app.use(
   cors({
-    origin: "https://kaleidoscopic-chaja-f70ad3.netlify.app",
+    origin: "https://strong-jalebi-1cbb41.netlify.app",
     credentials: true,
   })
 );
